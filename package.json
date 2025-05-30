@@ -1,0 +1,27 @@
+{
+  "name": "assistente-manutencao",
+  "version": "1.0.0",
+  "description": "Sistema de manutenção de ativos",
+  "private": true,
+  "scripts": {
+    "dev": "cd backend && npm run dev",
+    "build": "cd backend && npm run build",
+    "start": "cd backend && npm start",
+    "migrate": "cd backend && npm run migrate",
+    "install:backend": "cd backend && npm install",
+    "clean:backend": "cd backend && rm -rf node_modules dist"
+  },
+  "keywords": [
+    "maintenance",
+    "assets",
+    "nodejs",
+    "typescript",
+    "postgresql"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "@mui/x-date-pickers": "^8.4.0",
+    "date-fns": "^4.1.0"
+  }
+}
