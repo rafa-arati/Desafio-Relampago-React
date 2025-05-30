@@ -263,15 +263,6 @@ cd assistente-manutencao-frontend
 npm run build
 ```
 
-## 🤝 Dados de Exemplo
-
-O sistema inclui dados de exemplo que são inseridos automaticamente na primeira execução:
-
-- **Usuário**: `usuario@exemplo.com`
-- **Senha**: `123456`
-- **Ativos**: Carro Honda Civic, Ar Condicionado
-- **Manutenções**: Exemplos com diferentes status de urgência
-
 ## 📄 API Endpoints
 
 ### Autenticação
@@ -342,6 +333,10 @@ npm run lint         # Linting do código
 Para dúvidas e suporte:
 - Abra uma issue no repositório
 - Consulte a documentação técnica nos comentários do código
+
+---
+
+Link do repositório: https://github.com/rafa-arati/Desafio-Relampago-React/tree/main/assistente-manutencao-frontend
 
 ---
 
